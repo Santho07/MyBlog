@@ -1,4 +1,4 @@
-baseurl      = "santho07.github.io/MyBlog"
+baseurl      = "https://Santho07.github.io"
 title        = "Imam Hossain"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
